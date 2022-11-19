@@ -6,7 +6,7 @@ class Vehicle {
         this.color = color;
         this.passenger = 0;
         this.speed = 0;
-        this.mileage = mileage;
+        this.mileage = mileage;vehicle.js
         this.started = false;
         this.numberOfWheels = 0;
     }
